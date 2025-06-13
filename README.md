@@ -1,2 +1,1 @@
-# Homework2
-ავტომატიზაციის მეორე დავალება
+# Homework2ready to delete
